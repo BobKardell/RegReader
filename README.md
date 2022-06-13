@@ -11,3 +11,5 @@ The repository only has two files:
   If you want to add additional registry locations, simply add them to the text file for use the next time the app is opened.
   
   The application will run search for registry keys, sub-key, value names, and values by date.
+  
+  Run as administrator.
